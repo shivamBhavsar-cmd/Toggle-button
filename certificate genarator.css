@@ -1,0 +1,32 @@
+div{
+background-color: white;
+height: 740px;
+width: 450px;
+margin: 70px auto;
+border-right: 1px double gray;
+border-left: 1px double gray;
+border-bottom: 1px double gray;
+box-shadow: 1px 1px 10px silver;
+border:none;
+
+
+}
+
+div input{
+font-size: 15px;
+    display: block;
+    align-items: center;
+    height: 50px;
+    width: 389px;
+box-shadow: 10px solid gray;
+cursor: pointer;
+}
+ span{
+     font-size: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+
+
+
+
